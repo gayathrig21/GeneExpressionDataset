@@ -4,4 +4,4 @@ Gene Expression dataset comes from a proof-of-concept study published in 1999 by
 # Problem Statement
 There are two datasets containing the initial (training, 38 samples) and independent (test, 34 samples) datasets used in the paper. These datasets contain measurements corresponding to ALL and AML samples from Bone Marrow and Peripheral Blood. Intensity values have been re-scaled such that overall intensities for each chip are equivalent.
 
--To build a model to claasify the patient with acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL).
+-To build varous ML model to claasify the patient with acute myeloid leukemia (AML) and acute lymphoblastic leukemia (ALL).
